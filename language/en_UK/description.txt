@@ -1,0 +1,1 @@
+Provides a ways to sign in your gallery with your Microsoft 365 account.
