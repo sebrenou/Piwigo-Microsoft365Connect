@@ -2,7 +2,7 @@
 
 Microsoft 365 Connect allows you to use your Microsoft 365 account to connect to your Piwigo Library.
 
-The email adress of the Piwigo user must match the email adress of the Microsoft 365 account.
+The email address of the Piwigo user must match the email address of the Microsoft 365 account.
 
 Internal name : `m365connect` (directory name in `plugins/`)
 
