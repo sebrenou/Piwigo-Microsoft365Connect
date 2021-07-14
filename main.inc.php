@@ -64,7 +64,7 @@ function m365connect_init()
   {
     if (empty($hybridauth_conf) and strpos(@$_GET['page'],'plugin-m365connect')===false)
     {
-      $page['warnings'][] = '<a href="'.m365connect_ADMIN.'">'.l10n('Microsoft 365 Connect: You need to configure the credentials').'</a>';
+      $page['warnings'][] = '<a href="'.M365CONNECT_ADMIN.'">'.l10n('Microsoft 365 Connect: You need to configure the credentials').'</a>';
     }
     if (!function_exists('curl_init'))
     {
