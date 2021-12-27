@@ -6,6 +6,7 @@ Description: Provides a way to sign in your gallery with your Microsoft 365 acco
 Plugin URI: auto
 Author: Sébastien Renou
 Author URI: https://solutions-opensource-pour-collectivites.fr
+Has Settings: true
 */  
 
 defined('PHPWG_ROOT_PATH') or die('Hacking attempt!');
